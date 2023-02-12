@@ -1,1 +1,1 @@
-list3.addComputePoly(list1, list2);
+*
